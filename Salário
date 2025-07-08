@@ -1,5 +1,5 @@
- /*(Adaptado de ASCENCIO e CAMPOS, 2008) FaÁa um programa que receba o sal·rio de 
-um funcion·rio, calcule e mostre o novo sal·rio, sabendo-se que este sofreu um 
+ /*(Adaptado de ASCENCIO e CAMPOS, 2008) Fa√ßa um programa que receba o sal√°rio de 
+um funcion√°rio, calcule e mostre o novo sal√°rio, sabendo-se que este sofreu um 
 aumento de 25%.*/ 
 
 #include <stdio.h>
